@@ -9,4 +9,4 @@ pip install -r requirements.txt
 ```
 Then run app.py and go to the following website in your browser,
 
-http://localhost:5000 
+http://localhost:5000/apidocs/ 
