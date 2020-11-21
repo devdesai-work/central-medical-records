@@ -1,0 +1,32 @@
+Allergist/Immunologist
+Anesthesiologist
+Cardiologist
+Colon and Rectal Surgeon
+Critical Care Medicine Specialist
+Dermatologist
+Endocrinologist
+Emergency Medicine Specialist
+Family Physician
+Gastroenterologist
+Geriatric Medicine Specialist
+Hematologist
+Hospice and Palliative Medicine Specialist
+Infectious Disease Specialist
+InternistMedical Geneticist
+NephrologistNeurologist
+Obstetrician and Gynecologist
+Oncologist
+Ophthalmologist
+Osteopath
+Otolaryngologist
+Pathologist
+Pediatrician
+Physiatrist
+Plastic Surgeon
+Podiatrist
+Preventive Medicine Specialist
+Psychiatrist
+Pulmonologist
+Radiologist
+Rheumatologist
+Urologist
