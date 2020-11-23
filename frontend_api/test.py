@@ -1,5 +1,14 @@
-import requests
+from pymongo import MongoClient
 
-base = "http://127.0.0.1:5000/"
-response = requests.get(base+"give/brook")
-print(response.json())
+client = MongoClient("mongodb+srv://Pranav:mongodbisuseful@cluster0.3kcso.mongodb.net/<dbname>?retryWrites=true&w=majority")
+db = client['medicalDB']
+collection = db['Patient_personal_info']
+
+data = {420 : []}
+for x in collection.find({'p_id'  : 420}):
+        data[420].append(x)
+
+if collection.find({'p_id' : 420}).count() == 0:
+        print("no 420")
+
+print(data[420][0])

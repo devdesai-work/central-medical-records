@@ -1,9 +1,6 @@
 Flask==1.1.2
 Flask-RESTful==0.3.8
-itsdangerous==1.1.0
-Jinja2==2.11.2
-MarkupSafe==1.1.1
-pytz==2020.1
-six==1.15.0
-Werkzeug==1.0.1
-flasgger
+Flask-SQLAlchemy==2.4.3
+Flasgger==0.9.5
+pymongo==3.11.1
+bson==0.5.10
